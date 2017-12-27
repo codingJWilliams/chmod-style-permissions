@@ -1,0 +1,30 @@
+{
+  "name": "chmod-style-permissions",
+  "version": "1.0.0",
+  "description": "Unix chmod style permission resolution node module Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingJWilliams/chmod-style-permissions.git"
+  },
+  "keywords": [
+    "permissions",
+    "permission",
+    "access",
+    "can",
+    "chmod"
+  ],
+  "author": "Jay M Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codingJWilliams/chmod-style-permissions/issues"
+  },
+  "homepage": "https://github.com/codingJWilliams/chmod-style-permissions#readme",
+  "dependencies": {
+    "mocha": "^4.0.1",
+    "should": "^13.2.0"
+  }
+}
